@@ -1,6 +1,5 @@
 # Federico Mozzon11
-<<<<<<< HEAD
+- Luca Vilotta
 - franco andrian
-=======
-- Duarte Juan Ignacio
->>>>>>> JUAN
+- Isaias Jacob
+- Duarte Juan
