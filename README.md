@@ -4,3 +4,4 @@
 - Isaias Jacob
 - Hernan Frank
 - Duarte Juan
+- Abigail Marquez
