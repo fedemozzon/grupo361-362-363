@@ -5,3 +5,4 @@
 - Hernan Frank
 - Duarte Juan
 - Abigail Marquez
+- Ignacio Sosa
